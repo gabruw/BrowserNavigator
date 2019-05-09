@@ -5,3 +5,36 @@ C:\Users\snyp_\source\repos\BrowserNavigator\BrowserNavigator\obj\Debug\BrowserN
 C:\Users\snyp_\source\repos\BrowserNavigator\BrowserNavigator\obj\Debug\BrowserNavigator.csproj.CoreCompileInputs.cache
 C:\Users\snyp_\source\repos\BrowserNavigator\BrowserNavigator\obj\Debug\BrowserNavigator.exe
 C:\Users\snyp_\source\repos\BrowserNavigator\BrowserNavigator\obj\Debug\BrowserNavigator.pdb
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\bin\Debug\BrowserNavigator.exe.config
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\bin\Debug\BrowserNavigator.exe
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\bin\Debug\BrowserNavigator.pdb
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\bin\Debug\WebDriver.xml
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\obj\Debug\BrowserNavigator.csprojAssemblyReference.cache
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\obj\Debug\BrowserNavigator.csproj.CoreCompileInputs.cache
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\obj\Debug\BrowserNavigator.csproj.CopyComplete
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\obj\Debug\BrowserNavigator.exe
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\obj\Debug\BrowserNavigator.pdb
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\bin\Debug\WebDriver.dll
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\bin\Debug\phantomjs.exe
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\bin\Debug\phantomjs-license.txt
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\bin\Debug\FSharp.Core.dll
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\bin\Debug\HtmlAgilityPack.dll
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\bin\Debug\ScrapySharp.Core.dll
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\bin\Debug\ScrapySharp.dll
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\bin\Debug\FSharp.Core.xml
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\bin\Debug\HtmlAgilityPack.xml
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\SHU Aeronáutica 01\Documents\GitHub\BrowserNavigator\BrowserNavigator\bin\Debug\zh-Hant\FSharp.Core.resources.dll

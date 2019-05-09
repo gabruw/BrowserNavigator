@@ -1,0 +1,7 @@
+C:\Users\snyp_\source\repos\BrowserNavigator\BrowserNavigator\bin\Debug\BrowserNavigator.exe.config
+C:\Users\snyp_\source\repos\BrowserNavigator\BrowserNavigator\bin\Debug\BrowserNavigator.exe
+C:\Users\snyp_\source\repos\BrowserNavigator\BrowserNavigator\bin\Debug\BrowserNavigator.pdb
+C:\Users\snyp_\source\repos\BrowserNavigator\BrowserNavigator\obj\Debug\BrowserNavigator.csprojAssemblyReference.cache
+C:\Users\snyp_\source\repos\BrowserNavigator\BrowserNavigator\obj\Debug\BrowserNavigator.csproj.CoreCompileInputs.cache
+C:\Users\snyp_\source\repos\BrowserNavigator\BrowserNavigator\obj\Debug\BrowserNavigator.exe
+C:\Users\snyp_\source\repos\BrowserNavigator\BrowserNavigator\obj\Debug\BrowserNavigator.pdb

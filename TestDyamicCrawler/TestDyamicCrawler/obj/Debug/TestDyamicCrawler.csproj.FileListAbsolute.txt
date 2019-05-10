@@ -1,0 +1,9 @@
+C:\Users\SHU Aeronáutica 01\Source\Repos\TestDyamicCrawler\TestDyamicCrawler\bin\Debug\TestDyamicCrawler.exe.config
+C:\Users\SHU Aeronáutica 01\Source\Repos\TestDyamicCrawler\TestDyamicCrawler\bin\Debug\TestDyamicCrawler.exe
+C:\Users\SHU Aeronáutica 01\Source\Repos\TestDyamicCrawler\TestDyamicCrawler\bin\Debug\TestDyamicCrawler.pdb
+C:\Users\SHU Aeronáutica 01\Source\Repos\TestDyamicCrawler\TestDyamicCrawler\obj\Debug\TestDyamicCrawler.csprojAssemblyReference.cache
+C:\Users\SHU Aeronáutica 01\Source\Repos\TestDyamicCrawler\TestDyamicCrawler\obj\Debug\TestDyamicCrawler.csproj.CoreCompileInputs.cache
+C:\Users\SHU Aeronáutica 01\Source\Repos\TestDyamicCrawler\TestDyamicCrawler\obj\Debug\TestDyamicCrawler.exe
+C:\Users\SHU Aeronáutica 01\Source\Repos\TestDyamicCrawler\TestDyamicCrawler\obj\Debug\TestDyamicCrawler.pdb
+C:\Users\SHU Aeronáutica 01\Source\Repos\TestDyamicCrawler\TestDyamicCrawler\obj\Debug\Interop.SHDocVw.dll
+C:\Users\SHU Aeronáutica 01\Source\Repos\TestDyamicCrawler\TestDyamicCrawler\obj\Debug\TestDyamicCrawler.csproj.ResolveComReference.cache

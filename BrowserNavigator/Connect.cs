@@ -23,14 +23,47 @@ namespace BrowserNavigator
             return html;
         }
 
+        public string BrowserRequestGET(string url, Cookie cookie)
+        {
+            Explorer explorer = new Explorer();
+
+            InternetSetCookie(url, cookie.Name, cookie.Value);
+
+            explorer.Browser.Navigate(url, null, null, null, null);
+
+            explorer.NavigationComplete(url);
+
+            var html = explorer.Document.documentElement.innerHTML;
+
+            explorer.Browser.Quit();
+
+            return html;
+        }
+
         public string BrowserRequestPOST(string url, byte[] form)
         {
             Explorer explorer = new Explorer();
 
             var postHeaders = "Content-Type: application/x-www-form-urlencoded";
 
-            //Cookie newCookie = new Cookie();
-            //InternetSetCookie(url, newCookie.Name, newCookie.Value);
+            explorer.Browser.Navigate(url, null, null, form, postHeaders);
+
+            explorer.NavigationComplete(url);
+
+            var html = explorer.Document.documentElement.innerHTML;
+
+            explorer.Browser.Quit();
+
+            return html;
+        }
+
+        public string BrowserRequestPOST(string url, byte[] form, Cookie cookie)
+        {
+            Explorer explorer = new Explorer();
+
+            var postHeaders = "Content-Type: application/x-www-form-urlencoded";
+
+            InternetSetCookie(url, cookie.Name, cookie.Value);
 
             explorer.Browser.Navigate(url, null, null, form, postHeaders);
 

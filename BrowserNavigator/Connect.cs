@@ -1,7 +1,13 @@
-﻿namespace BrowserNavigator
+﻿using System.Net;
+using System.Runtime.InteropServices;
+
+namespace BrowserNavigator
 {
     public class Connect
     {
+        [DllImport("wininet.dll", CharSet = CharSet.Auto, SetLastError = true)]
+        static extern bool InternetSetCookie(string lpszUrlName, string lpszCookieName, string lpszCookieData);
+
         public string BrowserRequestGET(string url)
         {
             Explorer explorer = new Explorer();
@@ -22,6 +28,9 @@
             Explorer explorer = new Explorer();
 
             var postHeaders = "Content-Type: application/x-www-form-urlencoded";
+
+            //Cookie newCookie = new Cookie();
+            //InternetSetCookie(url, newCookie.Name, newCookie.Value);
 
             explorer.Browser.Navigate(url, null, null, form, postHeaders);
 
